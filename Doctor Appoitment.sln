@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctor Appoitment", "Doctor Appoitment\Doctor Appoitment.csproj", "{FCF1DF62-B74C-4B42-B964-85BD1A67DF1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctor Appoitment.Tests", "Doctor Appoitment.Tests\Doctor Appoitment.Tests.csproj", "{1C6D7179-E4BB-4700-ADC8-FB3D9834390D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF1DF62-B74C-4B42-B964-85BD1A67DF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF1DF62-B74C-4B42-B964-85BD1A67DF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF1DF62-B74C-4B42-B964-85BD1A67DF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF1DF62-B74C-4B42-B964-85BD1A67DF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6D7179-E4BB-4700-ADC8-FB3D9834390D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6D7179-E4BB-4700-ADC8-FB3D9834390D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6D7179-E4BB-4700-ADC8-FB3D9834390D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6D7179-E4BB-4700-ADC8-FB3D9834390D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D20502C-A411-4280-90D0-A176EAD0D9E2}
+	EndGlobalSection
+EndGlobal
